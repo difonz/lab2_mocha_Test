@@ -12,4 +12,4 @@ exports.mul =function(x,y){
 
 exports.div = function(x,y){
     return x/y;
-}
+};
